@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6fe6c44.css",
+    "main.js": "/static/js/main.bf14e1d3.js",
+    "static/media/space.mp4": "/static/media/space.3a91faa10a062db9e79d.mp4",
+    "static/media/training.jpg": "/static/media/training.bc8721ddaf9c204598ce.jpg",
+    "static/media/contact.jpg": "/static/media/contact.63be430845213b363eef.jpg",
+    "static/media/money.jpg": "/static/media/money.b5a3c0894c305eeb74df.jpg",
+    "static/media/skill.jpg": "/static/media/skill.e6152fded41db5f8c76b.jpg",
+    "static/media/man.jpg": "/static/media/man.d64549eff3733439b575.jpg",
+    "index.html": "/index.html",
+    "main.b6fe6c44.css.map": "/static/css/main.b6fe6c44.css.map",
+    "main.bf14e1d3.js.map": "/static/js/main.bf14e1d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fe6c44.css",
+    "static/js/main.bf14e1d3.js"
+  ]
+}
